@@ -19,12 +19,7 @@ This project analyzes customer churn data to identify key factors that lead to c
 
 
 
-```sql
--- Query to identify high-revenue customers with high churn probability
-SELECT 
-    CustomerID, 
-    Contract, 
-    MonthlyCharges, 
+
     Tenure,
     CASE 
         WHEN MonthlyCharges > 80 AND Contract = 'Month-to-month' THEN 'Critical Risk'
