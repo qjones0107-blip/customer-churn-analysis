@@ -17,8 +17,7 @@ This project analyzes customer churn data to identify key factors that lead to c
 - **SQL** (Data Segmentation & Risk Analysis)
 - **Google Sheets** (Data Visualization)
 
-## 💻 SQL Analysis: Identifying High-Value Risk
-To provide actionable insights, I used SQL to segment customers and identify "High-Value" targets at risk of churning (Top 25% in monthly charges on Month-to-Month contracts).
+
 
 ```sql
 -- Query to identify high-revenue customers with high churn probability
