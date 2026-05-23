@@ -36,5 +36,5 @@ ORDER BY
 LIMIT 10;
 ---
 
-## 👤 Author
-**Quincy Jones** Aspiring Data Analyst | Python | SQL | Data Visualization
+## 👤  Quincy Jones — Data Analyst | Power BI | Business Intelligence | Operations
+🔗 LinkedIn | GitHub
